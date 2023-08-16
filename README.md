@@ -17,7 +17,7 @@
 
 Jest is a popular testing framework that is often used with React applications. It supports snapshot testing, assertion methods like expect, and mocking. It's known for its simplicity and ease of use.
 
-![https://blog.logrocket.com/wp-content/uploads/2022/03/state-javascript-survey-2022.png)
+![Testing](https://blog.logrocket.com/wp-content/uploads/2022/03/state-javascript-survey-2022.png)
 
 [https://2022.stateofjs.com/en-US/libraries/testing/]
 
