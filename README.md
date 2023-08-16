@@ -2,15 +2,15 @@
 
 - **The past grads have used ‘@testing-library’ to test their front end.**
     
-    [https://github.com/sky-uk/id-nemesis/blob/main/groot/](https://github.com/sky-uk/id-nemesis/blob/main/groot/)
+[https://github.com/sky-uk/id-nemesis/blob/main/groot/](https://github.com/sky-uk/id-nemesis/blob/main/groot/)
     
 - **External Links to sources used in this notion**
     
-    [https://testing-library.com/docs/react-testing-library/intro/](https://testing-library.com/docs/react-testing-library/intro/) is the docs for the testing library used.
+[https://testing-library.com/docs/react-testing-library/intro/](https://testing-library.com/docs/react-testing-library/intro/) is the docs for the testing library used.
     
-    [https://blog.logrocket.com/testing-react-components-react-testing-library-vs-enzyme/](https://blog.logrocket.com/testing-react-components-react-testing-library-vs-enzyme/).
+[https://blog.logrocket.com/testing-react-components-react-testing-library-vs-enzyme/](https://blog.logrocket.com/testing-react-components-react-testing-library-vs-enzyme/).
     
-    [https://fek.io/blog/add-jest-testing-framework-to-an-existing-next-js-app/](https://fek.io/blog/add-jest-testing-framework-to-an-existing-next-js-app/)
+[https://fek.io/blog/add-jest-testing-framework-to-an-existing-next-js-app/](https://fek.io/blog/add-jest-testing-framework-to-an-existing-next-js-app/)
     
 
 ## Jest
@@ -19,7 +19,7 @@ Jest is a popular testing framework that is often used with React applications. 
 
 ![Screenshot 2023-08-16 at 09.27.56.png](Frontend%20Testing%2007c1b49959ea4eda9c177f6f88048dd7/Screenshot_2023-08-16_at_09.27.56.png)
 
-         [https://2022.stateofjs.com/en-US/libraries/testing/]
+[https://2022.stateofjs.com/en-US/libraries/testing/]
 
 ## React Testing Library
 
