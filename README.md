@@ -19,7 +19,7 @@ Jest is a popular testing framework that is often used with React applications. 
 
 ![Screenshot 2023-08-16 at 09.27.56.png](Frontend%20Testing%2007c1b49959ea4eda9c177f6f88048dd7/Screenshot_2023-08-16_at_09.27.56.png)
 
-                                   [https://2022.stateofjs.com/en-US/libraries/testing/](https://2022.stateofjs.com/en-US/libraries/testing/)
+         [https://2022.stateofjs.com/en-US/libraries/testing/]
 
 ## React Testing Library
 
