@@ -1,8 +1,4 @@
 # Frontend Testing
-
-- **The past grads have used ‘@testing-library’ to test their front end.**
-    
-[https://github.com/sky-uk/id-nemesis/blob/main/groot/](https://github.com/sky-uk/id-nemesis/blob/main/groot/)
     
 - **External Links to sources used in this notion**
     
